@@ -33,3 +33,27 @@ El prototipo fue desarrollado con el objetivo de mejorar la experiencia de usuar
 ## Autor
 
 Deissy Esther Esquivia Pérez
+---
+
+## Vista general del proyecto
+
+### Flujo UX/UI
+![Flujo UX/UI](flujo-uiux-bolsos-jeze.png)
+
+### Página de inicio
+![Página de inicio](pag-inicio.png)
+
+### Inicio de sesión
+![Inicio de sesión](iniciar-sesion.png)
+
+### Catálogo de productos
+![Catálogo](catalogo-ecommerce.png)
+
+### Carrito de compras
+![Carrito](carrito-compras.png)
+
+### Contacto
+![Contacto](contactos-ecommerce.png)
+
+### Blog
+![Blog](blog-ecommerce-.png)
